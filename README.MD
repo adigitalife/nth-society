@@ -1,3 +1,5 @@
+![Nth Society Logo](/img/nth-society-logo.png)
+
 # The Nth Society - A voluntaryist roleplaying game and decentralized project
 
 ## Proposal
